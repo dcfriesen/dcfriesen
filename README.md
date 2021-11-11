@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dcfriesen
 - 👀 I’m interested in all sorts of things. My biggest interests are my family, programming (of course), and Tiki bars 🗿🌋🏝🏴‍☠️☠️🍹
-- 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on: well, nothing at the moment since I'm still learning
 - 📫 How to reach me https://www.linkedin.com/in/conrad-friesen
 
 <!---
