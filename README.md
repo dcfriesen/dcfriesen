@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dcfriesen
 - 👀 I’m interested in all sorts of things. My biggest interests are my family, programming (of course), and Tiki bars 🗿🌋🏝🏴‍☠️☠️🍹
-- 📫 How to reach me https://www.linkedin.com/in/conrad-friesen
+- 📫 How to reach me https://www.linkedin.com/in/conrad-friesen or shoot me an email mrconradfriesen@gmail.com
 
 <!---
 dcfriesen/dcfriesen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
