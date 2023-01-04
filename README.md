@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dcfriesen a software engineer currently working within the full-stack JavaScript environment (although I'm partial to Node.js, Express, microservices, and all things backend).
+- 👋 Hi, I’m @dcfriesen and I'm currently working on the backend in Java (I'm partial to all things backend).
 - 👀 I’m interested in all sorts of things. My biggest interests are my family, solving problems with tech (of course), and Tiki bars 🗿🌋🏝🏴‍☠️☠️🍹
 - 📫 How to reach me https://www.linkedin.com/in/conrad-friesen or shoot me an email at mrconradfriesen@gmail.com
 
